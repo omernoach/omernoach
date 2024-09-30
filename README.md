@@ -65,11 +65,4 @@
 
 <img src="https://raw.githubusercontent.com/omernoach/omernoach/output/snake.svg" alt="Snake animation" />
 
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@omernoach2&theme=default" alt="Layout with last medium posts"  />
-</div>
-
 ###
