@@ -1,18 +1,6 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/omer-noach-2343201b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@omernoach2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="36" height="24" alt="medium logo"  />
-  </a>
-</div>
-
-###
 
 <p align="left">My name is omer and I'm a Software Engineer at Island 🏝️</p>
 
