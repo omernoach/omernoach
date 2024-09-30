@@ -1,3 +1,4 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -66,3 +67,4 @@
 <img src="https://raw.githubusercontent.com/omernoach/omernoach/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
